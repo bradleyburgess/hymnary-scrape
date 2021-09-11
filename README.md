@@ -5,7 +5,7 @@ This is a very simple utility written in Python to scrape hymn texts from [Hymna
 ## Example
 
 ```python
-python hymnary-scrape.py UMH 147     # Will download only 147
+python hymnary-scrape.py UMH 147     # Will download only 147 from United Methodist Hymnal
 
 python hymnar-scrape.py UMH 216 230  # Will download range from 216–230
 ```
